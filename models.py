@@ -1,0 +1,1 @@
+thumbnail = models.ImageField(default='img/default.png', upload_to='img', blank=True, null=True)
